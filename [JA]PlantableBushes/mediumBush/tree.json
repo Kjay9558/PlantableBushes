@@ -1,0 +1,12 @@
+{
+    "Name": "Salmonberry Bush",
+    "Product": 296,
+    "SaplingName": "Salmonberry Bush Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Salmonberry Bush. Bears Salmonberries in the spring. Only grows if the 8 surrounding \"tiles\" are empty.",
+    "Season": "spring",
+    "SaplingPurchasePrice": 1000,
+    "SaplingPurchaseFrom": "Pierre",
+    "SaplingPurchaseRequirements": null
+  }
+
+  
