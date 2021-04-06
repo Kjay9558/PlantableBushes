@@ -1,0 +1,10 @@
+{
+	"Name": "Plantable Bushes",
+	"Author": "Kjay9558",
+	"Version": "0.1.0",
+	"Description": "You can plant bushes as saplings on your farm.",
+	"UniqueID": "Kjay9558.PlantableBushes",
+	"ContentPackFor": {
+    	"UniqueID": "spacechase0.JsonAssets"},
+	"UpdateKeys": ["Nexus:"]
+}
