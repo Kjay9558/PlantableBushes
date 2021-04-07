@@ -1,6 +1,6 @@
 {
     "Name": "medium Bush",
-    "Product": "",
+    "Product": null,
     "SaplingName": "medium Bush Sapling",
     "SaplingDescription": "Takes 28 days to produce a mature medium sized Bush. Only grows if the 8 surrounding \"tiles\" are empty.",
     "Season": "spring",
